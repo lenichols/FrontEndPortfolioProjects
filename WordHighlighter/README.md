@@ -1,8 +1,6 @@
 
 # Word/String Highlighter
 
-![View Output](https://github.com/lenichols/FrontEndPortfolioProjects/raw/main/FileExplorer/user.interactions.gif)
-
 
 ### Introduction
 In this project, you will create a module that highlights text/words in a string. 
