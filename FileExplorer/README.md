@@ -1,24 +1,24 @@
 
-###File Explorer App
+# File Explorer App
 
 ![View Output](https://github.com/lenichols/FrontEndPortfolioProjects/raw/main/FileExplorer/user.interactions.gif)
 
 
-###Introduction
+### Introduction
 Today, you will be building a file explorer, similar to ones you're used to seeing in the left panel of your favorite code editor. File explorers typically show the directory structure of your project as a "tree" of folders and files nested within other folders.
 
 Here is what the final product will look like:
 
 Your file explorer will use a mocked backend API (provided to you) to read/write the file system.
 
-##Getting started
+## Getting started
 To help you get started, we’re providing some boilerplate scaffolding code to start with. Here’s how to get this up and running:
 Download and extract one of the boilerplate packages included with these instructions:
 file-explorer-boilerplate.zip (JavaScript)
 file-explorer-ts-boilerplate.zip (TypeScript)
 Follow the instructions in the README to install Node and Yarn and launch the app.
 
-##Requirements
+## Requirements
 DO fetch the directory tree from the mock backend (see src/api.js). See API details below.
 DO display all files in the project, with files nested inside of folders as needed.
 
@@ -37,15 +37,15 @@ DO NOT rely on third-party hook libraries. We want to see how you write React co
 
 This project could take 5-6 hours depending on how detailed you get!
 
-###Submitting
+### Submitting
 If you used any additional NPM dependencies, add and save them to the package.json file
 
 Delete the node_modules folder and zip up the project directory (or use the tar -czvf myInitials-FileExplorerApp.tar.gz --exclude="node_modules" . command to archive the current directory)
 
 Submit your code as a zip file (no GitHub links, please!) using the submission link provided by your recruiter. Include your initials in the filename (e.g. myInitials-FileExplorerApp.zip or myInitials-FileExplorerApp.tar.gz)
 
-##UI Mocks and Assets
-###Full UI
+## UI Mocks and Assets
+### Full UI
 
 File hover states (default = top, hover = bottom):
 
@@ -53,10 +53,10 @@ Folder hover states (default = top, hover = bottom):
 
 Folder collapse states:
 
-###Icons
+### Icons
 You can find icon assets in the src/assets/icons directory. The following icons are available:
 
-###Mock backend API
+### Mock backend API
 You can import the mock API wrappers from src/api.js. There are only two methods:
 
 `getDirectoryTree(): Promise<DirectoryTree>`
@@ -85,7 +85,7 @@ This is the data format:
    ],
  };`
 
-###Rules:
+### Rules:
 
 There are three types of nodes in a directory tree: project, folder, and file.
 Directory tree always starts with a project node. Only the top node can be a project node.
