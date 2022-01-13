@@ -1,5 +1,7 @@
 
-#File Explorer App
+###File Explorer App
+
+[![View What You Will be Building](https://drive.google.com/file/d/1o6fBiUzHlDeKni4ng4FrkIv4k4Ragus8/view?usp=sharing)](https://drive.google.com/file/d/1o6fBiUzHlDeKni4ng4FrkIv4k4Ragus8/view?usp=sharing)
 
 
 ###Introduction
