@@ -1,7 +1,7 @@
 
 ###File Explorer App
 
-![View What You Will be Building](https://d.img.vision/nvapps/user.interactions.gif)
+![View What You Will be Building](https://github.com/lenichols/FrontEndPortfolioProjects/blob/main/FileExplorer/user.interactions.mp4)
 
 
 
