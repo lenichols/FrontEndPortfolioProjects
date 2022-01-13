@@ -14,8 +14,10 @@ Your file explorer will use a mocked backend API (provided to you) to read/write
 ## Getting started
 To help you get started, we’re providing some boilerplate scaffolding code to start with. Here’s how to get this up and running:
 Download and extract one of the boilerplate packages included with these instructions:
-file-explorer-boilerplate.zip (JavaScript)
-file-explorer-ts-boilerplate.zip (TypeScript)
+
+* [file-explorer-boilerplate.zip][1] (JavaScript)
+* [file-explorer-ts-boilerplate.zip][2] (TypeScript)
+
 Follow the instructions in the README to install Node and Yarn and launch the app.
 
 ## Requirements
@@ -107,3 +109,6 @@ Inspect the src/api.js file to see the kind of data you will be rendering.
 `removeById(id: UUID): Promise<DirectoryTree>`
 
 Use this method to remove a single file or folder by its node id: UUID. After removal, the method returns an updated directory tree.
+
+[1]: https://github.com/lenichols/FrontEndPortfolioProjects/raw/main/FileExplorer/file-explorer-boilerplate.zip
+[2]: https://github.com/lenichols/FrontEndPortfolioProjects/raw/main/FileExplorer/file-explorer-ts-boilerplate.zip
