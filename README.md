@@ -21,11 +21,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/lenichols/FrontEndPortfolioProjects">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Frontend Portfolio Projects</h3>
+  <h2 align="center">Frontend Portfolio Projects</h2>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -48,7 +45,7 @@
     <li>
       <a href="#about-the-project">About The FEPP List</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Frontend Built With</a></li>
       </ul>
     </li>
     <li>
@@ -58,19 +55,18 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Projects List</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The FEPP List
 
 Hi, I'm L.E. Nichols and I wanted to create this resource of portfolio projects to help new and current developers who need experience in the front end. I also wanted to build this resource for developers who want to build their portfolio and have working work and code samples that actually live in their github repositories.
 
