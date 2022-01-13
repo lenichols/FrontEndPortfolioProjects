@@ -25,7 +25,7 @@
   <h2 align="center">Frontend Portfolio Projects</h2>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An list of projects to build your frontend developer portfolio!
     <br />
     <br />
     <a href="https://github.com/lenichols/FrontEndPortfolioProjects">View Demo</a>
